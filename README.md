@@ -1,2 +1,2 @@
 # dank-selfbot
-#educational purposes only, not for production
+# educational purposes only, not for production
